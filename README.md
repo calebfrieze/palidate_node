@@ -1,5 +1,5 @@
-# palidate
-A library to test your PayPal Integration
+# palidate-node
+A nodejs library to test your PayPal Integration
 
 Install the module and use the starting code below. (Use --save-dev if you want to use as a DEV dependency)
 
