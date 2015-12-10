@@ -1,0 +1,27 @@
+{
+  "name": "palidate",
+  "version": "0.0.1",
+  "description": "A library to validate your PayPal Integration",
+  "main": "palidate.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cfrieze/palidate.git"
+  },
+  "keywords": [
+    "palidate",
+    "paypal",
+    "integration",
+    "credentials",
+    "rest",
+    "api"
+  ],
+  "author": "Caleb Frieze <calebfrieze@gmail.com (http://www.purblind.ninja)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cfrieze/palidate/issues"
+  },
+  "homepage": "https://github.com/cfrieze/palidate#readme"
+}
