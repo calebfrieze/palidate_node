@@ -29,4 +29,7 @@ palidate(options, function(err, res){
 This will return a status variable that is either "pass" or "fail".
 If your credentials "pass" then you will receive your access token to make your PayPal API calls.
 
+
+https://www.npmjs.com/package/palidate
+
 This module is NOT officially linked to or apart of PayPal.com and is not directly supported by PayPal.
