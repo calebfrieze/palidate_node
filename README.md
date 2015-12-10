@@ -1,6 +1,12 @@
 # palidate
 A library to test your PayPal Integration
 
+Install the module and use the starting code below. (Use --save-dev if you want to use as a DEV dependency)
+
+``` bash
+npm install palidate --save
+
+```
 
 ```javascript
 
@@ -19,3 +25,8 @@ palidate(options, function(err, res){
 })
 
 ```
+
+This will return a status variable that is either "pass" or "fail".
+If your credentials "pass" then you will receive your access token to make your PayPal API calls.
+
+This module is NOT officially linked to or apart of PayPal.com and is not directly supported by PayPal.
