@@ -28,7 +28,6 @@ palidate(options, function(err, res){
 
 The code above tests your credentials and will return a status variable that is either "pass" or "fail".
 If your credentials "pass" then you will receive your access token back in your result to make your PayPal API calls.
-
 Great to test out your PayPal Rest credentials, or use the resulting access token to further develop.
 
 
