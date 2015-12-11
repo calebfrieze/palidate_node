@@ -30,6 +30,7 @@ The code above tests your credentials and will return a status variable that is 
 If your credentials "pass" then you will receive your access token back in your result to make your PayPal API calls.
 Great to test out your PayPal Rest credentials, or use the resulting access token to further develop.
 
+
 https://www.npmjs.com/package/palidate
 
 This module is NOT officially linked to or apart of PayPal.com and is not directly supported by PayPal.
